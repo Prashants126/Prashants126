@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Ps066)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Ps066?width=500&height=320&ext=heatmap)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/ps066)](https://www.geeksforgeeks.org/user/ps066/)
