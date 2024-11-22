@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ps066?width=500&height=320&ext=activity)
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/ps066)](https://www.geeksforgeeks.org/user/ps066/)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ps066\&layout=compact&v=2&theme=dark"/>
