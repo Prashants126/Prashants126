@@ -17,6 +17,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+### 📈 DSA Analytics
+
+<p align="center">
+  <a href="https://leetcode.com/nikhilpal2705">
+    <img src="https://leetcard.jacoblin.cool/Ps066?width=500&height=320&ext=activity" alt="Leetcode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/">
+    <img src="https://gfgstatscard.vercel.app/ps066" alt="GFG Stats" />
+  </a>
+</p>
+
+---
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Ps066?width=500&height=320&ext=activity)
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/ps066)](https://www.geeksforgeeks.org/user/ps066/)
